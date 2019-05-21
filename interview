@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>More Information</title>
+        <style>
+            #ABC {
+                background-color: blue;
+            }
+        </style>
+  
+
+
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i>test</a>
+    <a href="https://alexeymaresyev.github.io/alexey/#" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Alexey Maresyev: Our Website</a>
+    <!------<a href="#" class="w3-bar-item w3-button w3-padding-large">His Greatest Achievements</a>
+    ---->
+    <!--<a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Bio</a>
+    -->
+    <a href="https://alexeymaresyev.github.io/moreinfo/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">More Info</a>
+    <a href="https://alexeymaresyev.github.io/Bio/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Bio</a>
+    <a href="https://alexeymaresyev.github.io/younglife/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">His Young Life</a>
+    <a href="https://alexeymaresyev.github.io/bibliography/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Bibliography</a>
+    <a href="https://alexeymaresyev.github.io/afterthewar/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">After the War</a>
+    <!----
+      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
+     <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="#" class="w3-bar-item w3-button">Merchandise</a>
+        <a href="#" class="w3-bar-item w3-button">Extras</a>
+        <a href="#" class="w3-bar-item w3-button">Media</a>
+      </div>
+      -->
+    </div>
+  <!---
+Code for search engine is now gone.
+---->
+  </div>
+</div>
+  
+    <a color=WHITE>Alexey Maresyev: Our Website</a>
+  
+
+<body style="background-color:white;">
+
+<br></br>
+  
+<center>
+<p style ="font-family:georgia;">“Insert quote” -Alexey Petrovich Maresyev (during an interview)</p>
+</center>
+
+<hr>
+
+<img src="https://myhero.com/images/guest/g255375/hero84933/g255375_u98397_povest.jpg" alt="hey" width="105" height="105" ALIGN = right>
+
+<img src="https://myhero.com/images/guest/g255375/hero84933/g255375_u98391_povest_27.jpg" alt="k" width="105" height="105" ALIGN = left>
+<p style ="font-family:georgia;" ALIGN = left>Alexey's story was made public in the forms of a book, an opera, a movie, and a documentary.</p> 
+  
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1YDAvypDV8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style ="font-family:georgia;font-size:80%;" ALIGN = center>Here is one part of "Story of A Real Man", an opera written about his story</p>
+</center>
+<pre> </pre>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ARhFH_w0D98?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+  
+<pre></pre>
+  
+</body>
+</html>
+
+
+
+  
+</body>
+</html>
