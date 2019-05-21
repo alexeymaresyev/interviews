@@ -29,23 +29,13 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i>test</a>
     <a href="https://alexeymaresyev.github.io/alexey/#" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Alexey Maresyev: Our Website</a>
-    <!------<a href="#" class="w3-bar-item w3-button w3-padding-large">His Greatest Achievements</a>
-    ---->
-    <!--<a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Bio</a>
-    -->
     <a href="https://alexeymaresyev.github.io/moreinfo/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">More Info</a>
     <a href="https://alexeymaresyev.github.io/Bio/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Bio</a>
     <a href="https://alexeymaresyev.github.io/younglife/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">His Young Life</a>
     <a href="https://alexeymaresyev.github.io/bibliography/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Bibliography</a>
     <a href="https://alexeymaresyev.github.io/afterthewar/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">After the War</a>
-    <!----
-      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
-     <div class="w3-dropdown-content w3-bar-block w3-card-4">
-        <a href="#" class="w3-bar-item w3-button">Merchandise</a>
-        <a href="#" class="w3-bar-item w3-button">Extras</a>
-        <a href="#" class="w3-bar-item w3-button">Media</a>
-      </div>
-      -->
+    <a href="https://alexeymaresyev.github.io/afterthewar/" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Interview</a>
+
     </div>
   <!---
 Code for search engine is now gone.
